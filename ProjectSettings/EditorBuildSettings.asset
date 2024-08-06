@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Mirror/Ref/MirrorChat_Eunjoo/Scenes/MirrorChat_Eunjoo.unity
+    path: Assets/MirrorChat_Eunjoo/Scenes/MirrorChat_Eunjoo.unity
     guid: 2b3d7e3c4e9c77244a87073ab67e6aca
   m_configObjects: {}
