@@ -2117,6 +2117,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NetworkManager
       objectReference: {fileID: 0}
+    - target: {fileID: 6382798944863752904, guid: cce3e48dde73f7d448ee1fdac8133cc6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6382798944863752916, guid: cce3e48dde73f7d448ee1fdac8133cc6, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -2357,6 +2361,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1126240267442263409, guid: e735d81525d186b45bde1af61e10ef9c, type: 3}
+      propertyPath: m_Colors.m_NormalColor.g
+      value: 0.50980395
+      objectReference: {fileID: 0}
+    - target: {fileID: 1126240267442263409, guid: e735d81525d186b45bde1af61e10ef9c, type: 3}
+      propertyPath: m_Colors.m_NormalColor.r
+      value: 0.5764706
+      objectReference: {fileID: 0}
+    - target: {fileID: 1126240267442263409, guid: e735d81525d186b45bde1af61e10ef9c, type: 3}
+      propertyPath: m_Colors.m_DisabledColor.a
+      value: 0.9254902
+      objectReference: {fileID: 0}
     - target: {fileID: 2802690077499333223, guid: e735d81525d186b45bde1af61e10ef9c, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -2469,9 +2485,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4721497649092702429, guid: e735d81525d186b45bde1af61e10ef9c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5385262327415626297, guid: e735d81525d186b45bde1af61e10ef9c, type: 3}
       propertyPath: m_Name
       value: ChattingUI
+      objectReference: {fileID: 0}
+    - target: {fileID: 5385262327415626297, guid: e735d81525d186b45bde1af61e10ef9c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6045180771523650641, guid: e735d81525d186b45bde1af61e10ef9c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7175330151994545654, guid: e735d81525d186b45bde1af61e10ef9c, type: 3}
       propertyPath: m_FontData.m_FontSize
